@@ -1,0 +1,197 @@
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.Batch.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\DataStore.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.AssemblyInfoInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.AssemblyInfo.cs
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.csprojAssemblyReference.cache
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\UploadMicroService2a\profile.arm.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.exe
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.deps.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.runtimeconfig.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.runtimeconfig.dev.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\BlobStorage.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\DataStore.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.csproj.CopyComplete
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\staticwebassets\UploadMicroService.StaticWebAssets.Manifest.cache
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\staticwebassets\UploadMicroService.StaticWebAssets.xml
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.genruntimeconfig.cache
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.UploadMicroService2a.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\UploadMicroService2a\mssql1.arm.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\wnelson\source\repos\UploadMicroService\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\mssql1.arm.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\mssql1.arm.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\UploadMicroService2a\mssql1.arm.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\UploadMicroService2a\profile.arm.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.UploadMicroService2a.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\UploadMicroService2a\appInsights1.arm.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.exe
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.deps.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.runtimeconfig.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.runtimeconfig.dev.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\UploadMicroService.pdb
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.Batch.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\DataStore.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\BlobStorage.pdb
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\bin\Debug\netcoreapp3.1\DataStore.pdb
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.csprojAssemblyReference.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.AssemblyInfoInputs.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.AssemblyInfo.cs
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.csproj.CoreCompileInputs.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.csproj.CopyComplete
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\staticwebassets\UploadMicroService.StaticWebAssets.Manifest.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\staticwebassets\UploadMicroService.StaticWebAssets.xml
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.pdb
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\UploadMicroService\obj\Debug\netcoreapp3.1\UploadMicroService.genruntimeconfig.cache

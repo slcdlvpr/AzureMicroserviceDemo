@@ -1,0 +1,9 @@
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\bin\Release\netcoreapp3.1\BlobStorage.deps.json
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\bin\Release\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\bin\Release\netcoreapp3.1\BlobStorage.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Release\netcoreapp3.1\BlobStorage.csprojAssemblyReference.cache
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Release\netcoreapp3.1\BlobStorage.AssemblyInfoInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Release\netcoreapp3.1\BlobStorage.AssemblyInfo.cs
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Release\netcoreapp3.1\BlobStorage.csproj.CoreCompileInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Release\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Release\netcoreapp3.1\BlobStorage.pdb

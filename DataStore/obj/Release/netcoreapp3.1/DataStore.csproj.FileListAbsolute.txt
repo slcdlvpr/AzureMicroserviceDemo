@@ -1,0 +1,13 @@
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\bin\Release\netcoreapp3.1\DataStore.deps.json
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\bin\Release\netcoreapp3.1\DataStore.runtimeconfig.json
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\bin\Release\netcoreapp3.1\DataStore.runtimeconfig.dev.json
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\bin\Release\netcoreapp3.1\DataStore.dll
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\bin\Release\netcoreapp3.1\DataStore.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.csprojAssemblyReference.cache
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.AssemblyInfoInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.AssemblyInfo.cs
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.csproj.CoreCompileInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.dll
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\DataStore\obj\Release\netcoreapp3.1\DataStore.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\bin\Debug\netcoreapp3.1\BlobStorage.deps.json
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\bin\Debug\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\bin\Debug\netcoreapp3.1\BlobStorage.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.AssemblyInfoInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.AssemblyInfo.cs
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.pdb
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.csproj.CoreCompileInputs.cache
+C:\Users\wnelson\source\repos\UploadMicroService\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.csprojAssemblyReference.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\bin\Debug\netcoreapp3.1\BlobStorage.deps.json
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\bin\Debug\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\bin\Debug\netcoreapp3.1\BlobStorage.pdb
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.csprojAssemblyReference.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.AssemblyInfoInputs.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.AssemblyInfo.cs
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.csproj.CoreCompileInputs.cache
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.dll
+C:\Users\wnelson\OneDrive - Healthequity, Inc\Documents\uploadmicroservice\BlobStorage\obj\Debug\netcoreapp3.1\BlobStorage.pdb

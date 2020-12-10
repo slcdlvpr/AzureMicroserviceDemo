@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\UploadMicroService\\UploadMicroService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\BlobStorage\\BlobStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\BlobStorage\\BlobStorage.csproj",
+        "projectName": "BlobStorage",
+        "projectPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\BlobStorage\\BlobStorage.csproj",
+        "packagesPath": "C:\\Users\\wnelson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\BlobStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wnelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\sdcloudlib\\NuGet": {},
+          "http://nuget.healthequity.com/development/NuGet": {},
+          "http://sdnuget01/NugetApplication/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/HQY01/_packaging/hqy-everest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.7.0, )"
+            },
+            "Azure.Storage.Blobs.Batch": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\DataStore\\DataStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\DataStore\\DataStore.csproj",
+        "projectName": "DataStore",
+        "projectPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\DataStore\\DataStore.csproj",
+        "packagesPath": "C:\\Users\\wnelson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\DataStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wnelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\sdcloudlib\\NuGet": {},
+          "http://nuget.healthequity.com/development/NuGet": {},
+          "http://sdnuget01/NugetApplication/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/HQY01/_packaging/hqy-everest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\UploadMicroService\\UploadMicroService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\UploadMicroService\\UploadMicroService.csproj",
+        "projectName": "UploadMicroService",
+        "projectPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\UploadMicroService\\UploadMicroService.csproj",
+        "packagesPath": "C:\\Users\\wnelson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\UploadMicroService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wnelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\sdcloudlib\\NuGet": {},
+          "http://nuget.healthequity.com/development/NuGet": {},
+          "http://sdnuget01/NugetApplication/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/HQY01/_packaging/hqy-everest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\BlobStorage\\BlobStorage.csproj": {
+                "projectPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\BlobStorage\\BlobStorage.csproj"
+              },
+              "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\DataStore\\DataStore.csproj": {
+                "projectPath": "C:\\Users\\wnelson\\OneDrive - Healthequity, Inc\\Documents\\uploadmicroservice\\DataStore\\DataStore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
